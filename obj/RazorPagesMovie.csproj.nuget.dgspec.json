@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HaloGamer33\\The Library\\Docs\\Escuela\\Universidad\\Tercer Semestre\\Web Apps\\Practica 1 Introduccion a Razor Pages\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "C:\\Users\\HaloGamer33\\The Library\\Documents\\Escuela\\Universidad\\Tercer Semestre\\Web Apps\\Practica 1 Introduccion a Razor Pages\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HaloGamer33\\The Library\\Docs\\Escuela\\Universidad\\Tercer Semestre\\Web Apps\\Practica 1 Introduccion a Razor Pages\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "C:\\Users\\HaloGamer33\\The Library\\Documents\\Escuela\\Universidad\\Tercer Semestre\\Web Apps\\Practica 1 Introduccion a Razor Pages\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HaloGamer33\\The Library\\Docs\\Escuela\\Universidad\\Tercer Semestre\\Web Apps\\Practica 1 Introduccion a Razor Pages\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Users\\HaloGamer33\\The Library\\Documents\\Escuela\\Universidad\\Tercer Semestre\\Web Apps\\Practica 1 Introduccion a Razor Pages\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "C:\\Users\\HaloGamer33\\The Library\\Docs\\Escuela\\Universidad\\Tercer Semestre\\Web Apps\\Practica 1 Introduccion a Razor Pages\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "C:\\Users\\HaloGamer33\\The Library\\Documents\\Escuela\\Universidad\\Tercer Semestre\\Web Apps\\Practica 1 Introduccion a Razor Pages\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\HaloGamer33\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HaloGamer33\\The Library\\Docs\\Escuela\\Universidad\\Tercer Semestre\\Web Apps\\Practica 1 Introduccion a Razor Pages\\RazorPagesMovie\\obj\\",
+        "outputPath": "C:\\Users\\HaloGamer33\\The Library\\Documents\\Escuela\\Universidad\\Tercer Semestre\\Web Apps\\Practica 1 Introduccion a Razor Pages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HaloGamer33\\AppData\\Roaming\\NuGet\\NuGet.Config",
